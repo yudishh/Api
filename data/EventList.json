@@ -1,0 +1,34 @@
+[
+    {
+      "id": "1",
+      "event_name": "Keep You Fit",
+      "eventCategory": "Sport",
+	    "status": "Ongoing",
+      "dressCode": "Casual",
+      "description": "This Event is about playing football matches",
+      "venue": "Domaine_de_Labourdonnais_Mapou_île_Maurice",
+      "event_dateTime": "2023-6-10 18:00:00",
+      "duration": 2,
+      "picture": "../assets/images/sportIMG.jpg",
+      "capacity": 10,
+      "refreshments": "Alcoholic and Non-alcoholic",
+      "organiser":["1"],
+      "interestedEmployee": ["2", "3"]
+    },
+    {
+      "id": "2",
+      "event_name": "Mountain Climbing",
+      "eventCategory": "Adventure",
+	    "status": "Expired",
+      "dressCode": "Casual",
+      "description": "This Event is about Climbing the peter both mountain. it will start from the start line to the finish line where user will be rewarded",
+      "venue": "Royal_Road_Bois_Chéri_Mauritius",
+      "event_dateTime": "2022-8-10 07:00:00",
+      "duration": 5,
+      "picture": "../assets/images/sportIMG.jpg",
+      "capacity": 50,
+      "refreshments": "Non-alcoholic",
+      "organiser":["2"],
+      "interestedEmployee": ["1", "3"]
+    }
+  ]
