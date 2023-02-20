@@ -4,15 +4,15 @@
       "firstName": "Olivier",
       "lastName": "Giroud",
       "address": "-20.3191998,57.523362",
-      "email": "o.g@email.mu",
+      "email": "olivier@gmail.com",
       "contactNumber": "+230 58143327"
     },
     {
         "id": "2",
-        "firstName": "Tom",
+        "firstName": "Tommy",
         "lastName": "Ford",
         "address": "-20.2847408,57.65728",
-        "email": "t.f@email.mu",
+        "email": "tommy@gmail.com",
         "contactNumber": "+230 58143327"
       },
       {
@@ -20,7 +20,7 @@
         "firstName": "Silver",
         "lastName": "Terry",
         "address": "-20.4038291,57.6054582",
-        "email": "t.s@email.mu",
+        "email": "silver@gmail.cpm",
         "contactNumber": "+230 58143327"
       },
       {
@@ -28,7 +28,7 @@
         "firstName": "Nathan",
         "lastName": "LeGrand",
         "address": "-20.4974561,57.4714994",
-        "email": "n.l@email.mu",
+        "email": "nathan@gmail.mu",
         "contactNumber": "+230 58143327"
       }
   ]
